@@ -1,0 +1,5 @@
+print("Nitesh", 'Kumar', 123)
+print("Nitesh", 'Kumar',123, sep='$', end="__")
+print("Newline", "Nitesh", 'Kumar',123, sep='$')
+print("Nitesh", 'Kumar',123, sep='$', end="     ")
+print("Newline", "Nitesh", 'Kumar',123, sep='$')

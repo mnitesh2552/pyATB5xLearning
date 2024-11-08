@@ -1,34 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="" />
+    <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab015_github.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab006_Variables_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab006_Variables_Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab007_Variables_Identifier_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab007_Variables_Identifier_Rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab008_Dynamically_typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab008_Dynamically_typed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab014_Math_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_07112024_keywords_identifier_variables/Lab014_Math_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab001_python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab001_python_HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab002_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab003_python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab003_python_Basics.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mnitesh2552"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mnitesh2552/pyATB5xLearning.git",
+    "accountId": "9bca87b1-7582-49d2-b7fb-a876b8f96c94"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oWmEUAq4MgVY7AVoOEkA32lBj7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab001_python_HelloWorld.executor": "Run",
+    "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab003_python_Basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007_Variables_Identifier_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_typed.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab015_github.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
