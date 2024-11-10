@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab023_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab024_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab025_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab026_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab027_Escape_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab028_Escape_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab029_task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,12 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731250786793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="9th November part 2">
+      <option name="closed" value="true" />
+      <created>1731253741754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731253741754</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th November" />
     <MESSAGE value="9th November" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th November" />
+    <MESSAGE value="9th November part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th November part 2" />
   </component>
 </project>
