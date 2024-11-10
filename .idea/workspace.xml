@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab020_Builtin_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab021_userInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab022_UserInput_Sum_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab023_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab024_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab025_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab026_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab027_Escape_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab028_Escape_char.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,11 @@
     "Python.Lab020_Builtin_functions.executor": "Run",
     "Python.Lab021_userInput.executor": "Run",
     "Python.Lab022_UserInput_Sum_of_two_numbers.executor": "Run",
+    "Python.Lab023_string.executor": "Run",
+    "Python.Lab024_Strings.executor": "Run",
+    "Python.Lab025_strings.executor": "Run",
+    "Python.Lab027_Escape_char.executor": "Run",
+    "Python.Lab028_Escape_char.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
@@ -108,11 +113,28 @@
       <option name="project" value="LOCAL" />
       <updated>1731073512661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="7th November">
+      <option name="closed" value="true" />
+      <created>1731250741476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731250741476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="9th November">
+      <option name="closed" value="true" />
+      <created>1731250786793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731250786793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th November" />
-    <option name="LAST_COMMIT_MESSAGE" value="7th November" />
+    <MESSAGE value="9th November" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th November" />
   </component>
 </project>
