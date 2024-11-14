@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab041_ternary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab030_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab043_coding_Q.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab040.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +74,7 @@
     "Python.Lab027_Escape_char.executor": "Run",
     "Python.Lab028_Escape_char.executor": "Run",
     "Python.Lab029_task.executor": "Run",
+    "Python.Lab030_task2.executor": "Run",
     "Python.Lab031_Operators.executor": "Run",
     "Python.Lab033_P1.executor": "Run",
     "Python.Lab034_P2.executor": "Run",
@@ -83,6 +83,7 @@
     "Python.Lab038.executor": "Run",
     "Python.Lab039.executor": "Run",
     "Python.Lab042.executor": "Run",
+    "Python.Lab043_coding_Q.executor": "Run",
     "Python.Lab_041_ternary.executor": "Run",
     "Python.Lab_40.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -162,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731487884801</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="12th November part 1">
+      <option name="closed" value="true" />
+      <created>1731578876179</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731578876179</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
