@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab031_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab032_Operators_Arthematic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab033_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab034_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab037_notequal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab_40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab041_ternary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab042.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab001_python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_05112024_Pthon_Basics/Lab001_python_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_05112024_Pthon_Basics/Lab002_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Pthon_Basics/Lab003_python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_05112024_Pthon_Basics/Lab003_python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab040.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +82,8 @@
     "Python.Lab037_notequal.executor": "Run",
     "Python.Lab038.executor": "Run",
     "Python.Lab039.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab_041_ternary.executor": "Run",
     "Python.Lab_40.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -162,13 +154,22 @@
       <option name="project" value="LOCAL" />
       <updated>1731254367362</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="12th November part 1">
+      <option name="closed" value="true" />
+      <created>1731487884800</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731487884801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th November" />
     <MESSAGE value="9th November" />
     <MESSAGE value="9th November part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th November part 2" />
+    <MESSAGE value="12th November part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th November part 1" />
   </component>
 </project>
