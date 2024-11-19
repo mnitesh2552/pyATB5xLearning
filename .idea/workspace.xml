@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52a8211-cf4c-4f79-b8bc-f421e33ad5ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_09112024_Literals_Variables/Lab030_task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/Ex_12112024_Operator/Lab043_coding_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab044_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab046_If_Else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab48_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_14112024_Condition_Loops/Lab49_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +82,7 @@
     "Python.Lab030_task2.executor": "Run",
     "Python.Lab031_Operators.executor": "Run",
     "Python.Lab033_P1.executor": "Run",
+    "Python.Lab034.executor": "Run",
     "Python.Lab034_P2.executor": "Run",
     "Python.Lab035.executor": "Run",
     "Python.Lab037_notequal.executor": "Run",
@@ -84,6 +90,10 @@
     "Python.Lab039.executor": "Run",
     "Python.Lab042.executor": "Run",
     "Python.Lab043_coding_Q.executor": "Run",
+    "Python.Lab044_Q.executor": "Run",
+    "Python.Lab046_If_Else.executor": "Run",
+    "Python.Lab047_Grade_Calc.executor": "Run",
+    "Python.Lab45.executor": "Run",
     "Python.Lab_041_ternary.executor": "Run",
     "Python.Lab_40.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -171,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731578876179</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="12th November part 1">
+      <option name="closed" value="true" />
+      <created>1731597726950</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731597726950</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
